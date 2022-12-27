@@ -1,0 +1,26 @@
+<mj-raw>
+    <!-- footer -->
+</mj-raw>
+        <mj-section>
+            <mj-column>
+                <mj-image width="420px" src="https://i.postimg.cc/MpcRQ30n/showus.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+         <mj-section>
+         <mj-group css-class="icon-size">
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="40px" src="https://i.postimg.cc/VvDMj3HC/fb.png" alt="" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="40px" src="https://i.postimg.cc/02XDr1Sg/insta.png" alt="" />
+            </mj-column>
+         </mj-group>      
+        </mj-section>
+        <mj-section padding="0 0 0 0">
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:10px opx" font-size="17px" line-height="1.5" >
+                   <p>* Free Shipping on all orders at <a style="color:#eb8102;font-weight:bold"  href="https://click.t.timberland.com/?qs=f50a412964a6b14bd5d034ca47a1987562dc252f36d09a8dda6d5cd5e789ea5d185413ba265c8e2690eacdd14735641b1f7022dfaf74e8d2d40c5f6bb7fa4a6e" target="_blank">timberland.ca. </a> in Canada only. Free returns are subject to certain restrictions; see website for details.Timberland reserves the right to cancel orders arising from pricing, promotions, or other errors. Void where prohibited.<br><br>Timberland, and Timberland PRO are trademarks of TBL Licensing LLC. © 2021 TBL Licensing LLC. All rights reserved. Timberland, 200 Domain Drive, Stratham, NH, 03885. This email was sent to you by VF Outdoor LLC. on behalf of VF Outdoor Canada Co.</p> 
+                   
+                </mj-text>
+            </mj-column>
+        </mj-section> 

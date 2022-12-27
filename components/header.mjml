@@ -1,0 +1,30 @@
+<mj-raw>
+    <!-- header section -->
+</mj-raw>
+<mj-section >
+            <mj-group>
+                <mj-column>
+                    <mj-text align="left" font-family="Arial,Helvetica,sans-serif;" >
+                    <a href="https://click.t.timberland.com/?qs=f50a412964a6b14bd5d034ca47a1987562dc252f36d09a8dda6d5cd5e789ea5d185413ba265c8e2690eacdd14735641b1f7022dfaf74e8d2d40c5f6bb7fa4a6e" style="color:##000000;">Here's Your Order Summary</a>
+                        
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-text align="right" font-family="Arial,Helvetica,sans-serif;" >
+                    <a href="https://click.t.timberland.com/?qs=f50a412964a6b14b96a51d8b6b84e7b9b24bf6a0d0fbf3e0c4a7a66205720ac9d68cf8054e07c597938dd46b19daccad0cc5b6e62cf9d982a6fe8ee3f0e5a181">View online</a>
+                        
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding-top="10px">
+            <mj-image width="350px" src="https://i.postimg.cc/JhZkTy2m/timberland-logo.jpg" align="center" alt="Timberland-logo" />     
+            </mj-column>
+            
+        </mj-section>
+        <mj-section padding="0 0 0 0">
+            <mj-column>
+                <mj-image border="0" align="center" src="https://i.postimg.cc/wjSNc5F0/Thank-you.jpg" alt="" />
+            </mj-column>
+        </mj-section>

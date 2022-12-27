@@ -1,0 +1,196 @@
+<mjml>
+<mj-head>
+
+    <mj-style inline="inline">
+        .icon-size{
+            max-width: 200px;
+            padding: 0px 0 30px;
+        }
+    </mj-style>
+</mj-head>
+    <mj-body background-color="#ffffff">
+        <mj-include path="./components/header.mjml" />
+        <mj-section>
+        <mj-group> 
+            <mj-column>
+            <mj-text align="left" padding="40px 40px 0 40px" font-size="16px" line-height="25px" font-weight="normal" font-family="Arial,Helvetica,sans-serif;">
+               <p> Hi, John,</p>
+               <br>
+               <p>Thanks for shopping at <a style="color:#eb8102;font-weight:bold"  href="https://click.t.timberland.com/?qs=f50a412964a6b14bd5d034ca47a1987562dc252f36d09a8dda6d5cd5e789ea5d185413ba265c8e2690eacdd14735641b1f7022dfaf74e8d2d40c5f6bb7fa4a6e" target="_blank">timberland.ca. </a> We're already working on your order and will email you with tracking info as soon as your order ships. (It may arrive in separate shipments - we'll keep you posted).<br><br>Can't wait to get you outside!</p>
+               
+               
+            </mj-text>
+            <mj-text  padding="0px 40px 0 40px" font-weight="bold; margin:10px 0px" font-size="16px">
+                <span style="color:#000000">Order</span>
+                 <span style="color:#eb8102">#28813451</span>
+            </mj-text>
+            <mj-text  padding="0px 40px 0 40px" font-weight="bold; margin:15px 0px 20px 0px" font-size="16px">
+                <span style="color:#000000">Shipping via:</span>
+                 <span style="color:#eb8102">Standard Shipping - 3 - 6 business days</span>
+            </mj-text>
+            
+            </mj-column>
+        </mj-group>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+            <mj-divider border-color='#eb8102' />
+                
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text align="center" font-family="Arial,Helvetica,sans-serif;" font-weight="bold" text-decoration='underline'>
+                    IN-STOCK ITEMS
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+        <mj-raw>
+            <!-- In stock section -->
+        </mj-raw>
+            <mj-column>
+            <mj-image height="320px" width="320px" border="0" src="https://i.postimg.cc/T17Lynpj/tims-pic.jpg" alt="" />
+                
+            </mj-column>
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold; margin:10px">
+                    <p > <a href="https://click.t.timberland.com/?qs=d8849572002b0e1cc840a9f102925695529d50f0d851b70a4e3eeafac7dcd2a7ed99de54ab9491413a3a5986521bf30351540a6b53bd339ed1cb832190e25426" style="color:#000000;text-decoration:none">Men's Timberland® Heritage 6-Inch Waterproof Warm Lined Boots </a> </p>
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif; margin:2px" font-size="17px">
+                    Style: A2KC3001
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:2px" font-size="17px">
+                    Size: 8.5 Medium
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:2px" font-size="17px">
+                    Color: Black Nubuck/Camo
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:2px" font-size="17px">
+                    Quantity: 1
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:2px" font-size="17px">
+                    Price: CAD 200.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin:2px" font-size="17px">
+                    Item Total: CAD 200.00
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/single-line.mjml" />
+        <mj-section>
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold">
+                    ORDER SUMMARY:
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Subtotal:	CAD 200.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Shipping:	FREE
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    GST/HST:	CAD 26.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    PST/QST:	CAD 0.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Order Total:	CAD 226.00
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold">
+                    PAYMENT SUMMARY:
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Credit Card:	CAD 226.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    PayPal:	CAD 0.00
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Total:	CAD 226.00
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/single-line.mjml" />
+        </mj-section>
+        <mj-section>
+            
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin-left:80px" font-size="17px" font-weight="bold">
+                    SHIPPING INFO:
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin-left:80px" font-size="17px" font-weight="bold" >
+                    John Dane
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin-left:80px" font-size="17px"  >
+                    167 Bastern Road
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin-left:80px" font-size="17px"  >
+                    Ottawa, ON
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;margin-left:80px" font-size="17px"  >
+                    CA KVA6P9
+                </mj-text>
+            </mj-column>
+             
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold">
+                    BILLING INFO:
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    John Dane
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                   167 Bastern Road
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    Ottawa, ON
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" >
+                    CA KVA6P9
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/single-line.mjml" />
+        <mj-section>
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold" align="center">
+                    NO ACCOUNT YET? CREATE ONE.
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="normal; margin:10px">
+                    <p > <a href="https://click.t.timberland.com/?qs=d661870529e2d5809e856555b577990cebe74b8e9cdc720c18b18923b47e5bb42f59a2ee0872f3890edfd779d9bb457a894af1277697df5fa09ba419cc14e624" style="color:#eb8102;font-weight:bold;text-decoration:none" target='_blank'>Create an account here. </a>To check your order status without an account, go to <a style="color:#eb8102;font-weight:bold;text-decoration:none"  href="https://click.t.timberland.com/?qs=d661870529e2d580fde85584d052e9f0bf3bb6f286d63efc277538e736204a0666fc1d670129305111e6f8150aa32c3d1034e3450ccc12dc5ec667c36cd691d3" target="_blank">Track My Order. </a> </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/single-line.mjml" />
+        <mj-section>
+            <mj-column>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="bold" align="center">
+                    HAVE A QUESTION? CONTACT US.
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="normal; margin:10px">
+                    <p >Call us: <a href="#" style="color:#eb8102;font-weight:bold;text-decoration:none" target='_blank'> 833-817-1812; </a>email us: <a style="color:#eb8102;font-weight:bold;text-decoration:none"  href="#" target="_blank"> tblcanada_service@vfc.com; </a>or Chat us:<a style="color:#eb8102;font-weight:bold;text-decoration:none"  href="#" target="_blank"> Click here  </a> </p>
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="normal; margin:10px">
+                    - Your Timberland Customer Service Team
+                </mj-text>
+                <mj-text font-family="Arial,Helvetica,sans-serif;" font-size="17px" font-weight="normal; margin:10px">
+                    This is an automatically generated email - Please do not reply.
+                </mj-text>
+            </mj-column>   
+        </mj-section>
+        <mj-section >
+            <mj-column >
+                <mj-image src="http://127.0.0.1:5503/assets/men's best seller.jpg" alt="" />
+                <mj-image  border="0" src="http://127.0.0.1:5503/assets/women's best seller.jpg" alt="" />
+                <mj-image border="0" src="http://127.0.0.1:5503/assets/tims-pro.jpg" alt="" />
+                <mj-image border="0" src="http://127.0.0.1:5503/assets/find-a-store.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+        
+            <mj-include path="./components/footer.mjml" />
+    </mj-body>
+</mjml>
